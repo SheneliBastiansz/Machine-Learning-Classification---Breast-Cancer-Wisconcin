@@ -1,1 +1,5 @@
-# Machine-Learning---Classification
+This machine learning classification project focuses on predicting whether breast cancer tumors are benign or malignant using the Breast Cancer Wisconsin dataset. The project involved multiple stages of the machine learning workflow, including data cleaning, preprocessing, exploratory data analysis, feature scaling, model training, and performance evaluation.
+
+Several classification algorithms, including Logistic Regression, K-Nearest Neighbors (KNN), Decision Trees, and Random Forest, were implemented and compared to evaluate their predictive performance and accuracy. Descriptive and predictive analytical techniques were applied to identify meaningful patterns within the dataset and assess the effectiveness of each model.
+
+The project demonstrates practical applications of machine learning in healthcare analytics while strengthening skills in Python, data visualization, statistical analysis, and model evaluation. The findings provide insights into how classification models can support data-driven decision-making and improve predictive analysis in real-world scenarios.
